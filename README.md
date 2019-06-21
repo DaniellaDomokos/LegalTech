@@ -7,30 +7,32 @@ Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorsch
 Vorwort
 Literatur- und Quellenverzeichnis
 
-1. Abschnitt: Grundlagen 
-  §1 Historische Hintergründe der Rechtsinformatik
-    I. Rechtsinformatik im 20. Jahrhundert
-    II. Entwicklungen ab der Jahrtausendewende
-2. Abschnitt: Technologische Hintergründe
-  §1 Blockchain
-    I. Distribution Ledger Technologie
-    II. Smart Contracts
-  §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
-    I. Machine Learning
-    II. Expertensysteme
-  §3 Natural Language Processing
-3. Methoden und Arbeitsweisen
-  §1 Legal Design Thinking
-  §2. Legal Project Manangement 
-  §3. moderne Organisationsmethoden: Scrum, Kanban & co.
-4. Abschnitt: Rechtliche Fragestellungen
-  §1 Der Einfluss der Digitalisierung auf das Berufsrecht
-  §2 Alternativ Service Provider
-5. Abschnitt: Kompetenzen der digitalisierten Welt
-  §1 Open Mindset, Neugier 
-  §2 Marketing, PR und Kommunikation
-  §3 BWL, VWL, Unternehmerisches Denken
-6. Coding for Lawyer
+# 1. Abschnitt: Grundlagen 
+  ## §1 Historische Hintergründe der Rechtsinformatik
+    ### I. Rechtsinformatik im 20. Jahrhundert
+    ### II. Entwicklungen ab der Jahrtausendewende
+# 2. Abschnitt: Technologische Hintergründe
+  ## §1 Blockchain
+   ### I. Distribution Ledger Technologie
+   ### II. Smart Contracts
+  ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
+  	### I. Machine Learning
+  	### II. Expertensysteme
+	## §3 Natural Language Processing
+# 3. Methoden und Arbeitsweisen
+ ## §1 Legal Design Thinking
+ ## §2. Legal Project Manangement
+ ## §3. moderne Organisationsmethoden: Scrum, Kanban & co.
+# 4. Abschnitt: Rechtliche Fragestellungen
+ ## §1 Der Einfluss der Digitalisierung auf das Berufsrecht
+ ## §2 Alternativ Service Provider
+# 5. Abschnitt: Kompetenzen der digitalisierten Welt
+ ## §1 Open Mindset, Neugier 
+ ## §2 Marketing, PR und Kommunikation
+ ## §3 BWL, VWL, Unternehmerisches Denken
+ # 6. Coding for Lawyer
+ ## §1 Grundlagen des Programmierens
+ ## §2 Programmiersprachen und ihre Funktionen/Eigenschaften 
 
 
 
