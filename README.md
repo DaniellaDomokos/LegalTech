@@ -4,7 +4,8 @@ Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech,
 
 Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorschlag, wobei die entsprechenden Abschnitte als Repository bereits hinterlegt und verknüpft sind. Änderungsvorschläge sowie Kapitelvorschläge, genauso wie Feedback oder Fragen und Anregungen gerne und jederzeit an: danielladomokos@gmail.com
 
-[Vorwort](https://www.google.com)
+[Vorwort](https://github.com/DaniellaDomokos/Einleitung-)
+
 Literatur- und Quellenverzeichnis
 
 # 1. Abschnitt: Grundlagen 
@@ -34,7 +35,7 @@ Literatur- und Quellenverzeichnis
  ## §1 Mindset, Schnittstellenkompetenz und lebenslanges Lernen 
  ## §2 Marketing, PR und Kommunikation
  ## §3 BWL, VWL, Unternehmerisches Denken
- # 5+1. Coding for Lawyers - Muss jede/r Jurist/in programmieren lernen?
+ # 5+1. [Coding for Lawyers] (https://github.com/DaniellaDomokos/Coding-for-Lawyers)- Muss jede/r Jurist/in programmieren lernen?
  ## §1 Grundlagen des Programmierens
  ## §2 Programmiersprachen und ihre Funktionen/Eigenschaften 
 
