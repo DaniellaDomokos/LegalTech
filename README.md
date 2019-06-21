@@ -4,33 +4,37 @@ Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech,
 
 Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorschlag, wobei die entsprechenden Abschnitte als Repository bereits hinterlegt und verknüpft sind. Änderungsvorschläge sowie Kapitelvorschläge, genauso wie Feedback oder Fragen und Anregungen gerne und jederzeit an: danielladomokos@gmail.com
 
-Vorwort
+[Vorwort](https://www.google.com)
 Literatur- und Quellenverzeichnis
 
 # 1. Abschnitt: Grundlagen 
   ## §1 Historische Hintergründe der Rechtsinformatik
-    ### I. Rechtsinformatik im 20. Jahrhundert
-    ### II. Entwicklungen ab der Jahrtausendewende
-# 2. Abschnitt: Technologische Hintergründe
-  ## §1 Blockchain
-   ### I. Distribution Ledger Technologie
+   ### I. Rechtsinformatik im 20. Jahrhundert
+   ### II. Entwicklungen ab der Jahrtausendewende
+   ### III. Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
+   ### IV. Zukunftsausblick: werden Juristen durch KI ersetzt?
+   ### V. Kollaboration und Kooperation
+# 2. Abschnitt: Technologische Hintergründe und ihre rechtliche Bewertung
+  ## §1 Fintechs und die Blockchaintechnologie 
+   ### I. Distributed Ledger Technologie
    ### II. Smart Contracts
   ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
-  	### I. Machine Learning
-  	### II. Expertensysteme
-	## §3 Natural Language Processing
-# 3. Methoden und Arbeitsweisen
+  ### I. Machine Learning
+  ### II. Expertensysteme
+## §3 Natural Language Processing
+# 3. Abschnitt: Rechtliche Fragestellungen
+ ## §1 Der Einfluss der Digitalisierung auf das Berufsrecht
+ ## §2 Alternative Service Provider
+ ## §3 InsureTech, Fintech, RealTec
+ # 4. Methoden und Arbeitsweisen 
  ## §1 Legal Design Thinking
  ## §2. Legal Project Manangement
- ## §3. moderne Organisationsmethoden: Scrum, Kanban & co.
-# 4. Abschnitt: Rechtliche Fragestellungen
- ## §1 Der Einfluss der Digitalisierung auf das Berufsrecht
- ## §2 Alternativ Service Provider
-# 5. Abschnitt: Kompetenzen der digitalisierten Welt
- ## §1 Open Mindset, Neugier 
+ ## §3. Moderne Organisationsmethoden: Scrum, Kanban & co.
+# 5. Abschnitt: Kompetenzen in der digitalisierten Welt
+ ## §1 Mindset, Schnittstellenkompetenz und lebenslanges Lernen 
  ## §2 Marketing, PR und Kommunikation
  ## §3 BWL, VWL, Unternehmerisches Denken
- # 6. Coding for Lawyer
+ # 5+1. Coding for Lawyers - Muss jede/r Jurist/in programmieren lernen?
  ## §1 Grundlagen des Programmierens
  ## §2 Programmiersprachen und ihre Funktionen/Eigenschaften 
 
