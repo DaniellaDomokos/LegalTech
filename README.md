@@ -1,6 +1,3 @@
-# LegalTech
-Das erste Open Source Legal Tech Lehrbuch. Aus der Community für die Studierende und Interessierte
-
 Inhaltsverzeichnis:
 # LegalTech
 Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech, #legaloperations # digitalisierung . Aus der Community für die Studierende und Interessierte.
