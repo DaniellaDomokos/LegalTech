@@ -32,9 +32,10 @@ Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorsch
  ## §2 Alternative Service Provider
  ## §3 InsureTech, Fintech, RealTec
  # 4. [Prozesse, Strukturen und wirtschaftliche Zusammenhänge](https://github.com/DaniellaDomokos/-Prozesse-Strukturen-und-wirtschaftliche-Zusammenhaenge/blob/master/README.md)
- ## §1 Legal Design Thinking
- ## §2. Legal Project Manangement
- ## §3. Moderne Organisationsmethoden: Scrum, Kanban & co.
+ ## §1 Legal Operations
+  ### I. Legal Project Management
+  ### II. Legal Pricing 
+ ## §2 Legal Desing Thinking
 # 5. Abschnitt: Kompetenzen in der digitalisierten Welt
  ## §1 Mindset, Schnittstellenkompetenz und lebenslanges Lernen 
  ## §2 Marketing, PR und Kommunikation
