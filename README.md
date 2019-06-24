@@ -35,8 +35,16 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
  ## §3 InsureTech, Fintech, RealTec
  # 4. [Prozesse, Strukturen und wirtschaftliche Zusammenhänge](https://github.com/DaniellaDomokos/-Prozesse-Strukturen-und-wirtschaftliche-Zusammenhaenge/blob/master/README.md)
  ## §1 Legal Operations
-  ### I. Legal Project Management
-  ### II. Legal Pricing 
+### I. Legal Project Management
+
+### III. Kanban
+
+### III. Lean Management
+
+### IV. Legal Pricing 
+
+### 
+
  ## §2 Legal Desing Thinking
 # 5. Abschnitt: Kompetenzen in der digitalisierten Welt
  ## §1 Mindset, Schnittstellenkompetenz und lebenslanges Lernen 
