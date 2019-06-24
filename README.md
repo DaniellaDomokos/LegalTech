@@ -24,8 +24,14 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
    ### II. Smart Contracts
    ### III. Datenbanken
   ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
-  ### I. Machine Learning
-  ### II. Expertensysteme
+### I. Expertensysteme
+
+### II. Machine Learning
+
+### III. Natural Language Processing
+
+### IV. Natural Language Generation
+
 ## §3 Natural Language Processing
 ## §4 Elektronische Signatur
 ## §5 Verschlüsselung und Anonymisierung
@@ -37,7 +43,7 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
  ## §1 Legal Operations
 ### I. Legal Project Management
 
-### III. Kanban
+### II. Kanban
 
 ### III. Lean Management
 
