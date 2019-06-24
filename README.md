@@ -16,13 +16,16 @@ Literatur- und Quellenverzeichnis
    ### IV. Zukunftsausblick: werden Juristen durch KI ersetzt?
    ### V. Kollaboration und Kooperation
 # 2. Abschnitt: Technologische Hintergründe und ihre rechtliche Bewertung
-  ## §1 Fintechs und die Blockchaintechnologie 
+  ## §1 Die Blockchaintechnologie - sinnvolle Einsatzszenarien und Abgrenzung zu Datenbanken
    ### I. Distributed Ledger Technologie
    ### II. Smart Contracts
+   ### III. Datenbanken
   ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
   ### I. Machine Learning
   ### II. Expertensysteme
 ## §3 Natural Language Processing
+## §4 Elektronische Signatur
+## §5 Verschlüsselung und Anonymisierung
 # 3. Abschnitt: Rechtliche Fragestellungen
  ## §1 Der Einfluss der Digitalisierung auf das Berufsrecht
  ## §2 Alternative Service Provider
