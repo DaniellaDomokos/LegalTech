@@ -1,12 +1,12 @@
 Inhaltsverzeichnis:
 # LegalTech
-Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech, #legaloperations # digitalisierung . Aus der Community für die Studierende und Interessierte.
+Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech, #legaloperations # digitalisierung. Aus der Community für die Studierende und Interessierte.
 
 Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorschlag, wobei die entsprechenden Abschnitte als Repository bereits hinterlegt und verknüpft sind. Änderungsvorschläge sowie Kapitelvorschläge, genauso wie Feedback oder Fragen und Anregungen gerne und jederzeit an: danielladomokos@gmail.com
 
-[Vorwort](https://github.com/DaniellaDomokos/Einleitung-)
+[Vorwort](https://github.com/DaniellaDomokos/Vorwort)
 
-Literatur- und Quellenverzeichnis
+# Literatur- und Quellenverzeichnis
 
 # 1. Abschnitt: Grundlagen 
   ## §1 Historische Hintergründe der Rechtsinformatik
@@ -15,7 +15,7 @@ Literatur- und Quellenverzeichnis
    ### III. Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
    ### IV. Zukunftsausblick: werden Juristen durch KI ersetzt?
    ### V. Kollaboration und Kooperation
-# 2. Abschnitt: Technologische Hintergründe und ihre rechtliche Bewertung
+# 2. Abschnitt: [Technologische Entwicklungen und ihre rechtliche Bewertung](https://github.com/DaniellaDomokos/technologische-Entwicklungen-und-ihre-rechtliche-bewertung)
   ## §1 Die Blockchaintechnologie - sinnvolle Einsatzszenarien und Abgrenzung zu Datenbanken
    ### I. Distributed Ledger Technologie
    ### II. Smart Contracts
@@ -30,7 +30,7 @@ Literatur- und Quellenverzeichnis
  ## §1 Der Einfluss der Digitalisierung auf das Berufsrecht
  ## §2 Alternative Service Provider
  ## §3 InsureTech, Fintech, RealTec
- # 4. Methoden und Arbeitsweisen 
+ # 4. [Prozesse, Strukturen und wirtschaftliche Zusammenhänge](https://github.com/DaniellaDomokos/-Prozesse-Strukturen-und-wirtschaftliche-Zusammenhaenge/blob/master/README.md)
  ## §1 Legal Design Thinking
  ## §2. Legal Project Manangement
  ## §3. Moderne Organisationsmethoden: Scrum, Kanban & co.
