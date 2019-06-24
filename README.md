@@ -35,7 +35,7 @@ Literatur- und Quellenverzeichnis
  ## §1 Mindset, Schnittstellenkompetenz und lebenslanges Lernen 
  ## §2 Marketing, PR und Kommunikation
  ## §3 BWL, VWL, Unternehmerisches Denken
- # 5+1. [Coding for Lawyers] (https://github.com/DaniellaDomokos/Coding-for-Lawyers)- Muss jede/r Jurist/in programmieren lernen?
+ # 5+1. [Coding for Lawyers](https://github.com/DaniellaDomokos/Coding-for-Lawyers)- Muss jede/r Jurist/in programmieren lernen?
  ## §1 Grundlagen des Programmierens
  ## §2 Programmiersprachen und ihre Funktionen/Eigenschaften 
 
