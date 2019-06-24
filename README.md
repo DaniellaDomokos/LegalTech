@@ -3,6 +3,8 @@ Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech,
 
 Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorschlag, wobei die entsprechenden Abschnitte als Repository bereits hinterlegt und verknüpft sind. Änderungsvorschläge sowie Kapitelvorschläge, genauso wie Feedback oder Fragen und Anregungen gerne und jederzeit an: danielladomokos@gmail.com
 
+Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/DaniellaDomokos/git-erklaert)
+
 # Inhaltsverzeichnis:
 
 # [Vorwort](https://github.com/DaniellaDomokos/Vorwort)
