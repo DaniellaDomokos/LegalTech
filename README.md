@@ -18,16 +18,15 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
    ### III. Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
    ### IV. Zukunftsausblick: werden Juristen durch KI ersetzt?
    ### V. Kollaboration und Kooperation
-  ## §2 Begriffe
-   ### I. Algorithmus
 # 2. Abschnitt: [Technologische Entwicklungen und ihre rechtliche Bewertung](https://github.com/DaniellaDomokos/technologische-Entwicklungen-und-ihre-rechtliche-bewertung)
   ## §1 Die Blockchaintechnologie - sinnvolle Einsatzszenarien und Abgrenzung zu Datenbanken
    ### I. Distributed Ledger Technologie
    ### II. Smart Contracts
    ### III. Datenbanken
   ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
-  ### I. Machine Learning
-  ### II. Expertensysteme
+  ### I. Algorithmen
+  ### II. Machine Learning
+  ### III. Expertensysteme
 ## §3 Natural Language Processing
 ## §4 Elektronische Signatur
 ## §5 Verschlüsselung und Anonymisierung
