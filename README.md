@@ -24,7 +24,7 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
    ### II. Smart Contracts
    ### III. Datenbanken
   ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
-  ### I. [Algorithmen]()
+  ### I. [Algorithmen](Zweiter Abschnitt/§2 KI/I. Algorithmus.md)
   ### II. Machine Learning
   ### III. Expertensysteme
 ## §3 Natural Language Processing
